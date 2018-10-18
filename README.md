@@ -1,6 +1,5 @@
 # jinnanli-s-project
-nothing to say actually
-ig Latin
+pig Latin
 Ancay youyay eakspay igpay atinlay? (Can you speak pig latin?) If you can’t, here are 
 the rules:
 If a word begins with a consonant, take all of the letters before the first vowel and move 
